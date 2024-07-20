@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 17f6f64377c4768478a2398b0cec9b40
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - m_ViewDataDictionary: {instanceID: 0}
+  - spawnPrefab: {instanceID: 0}
+  - previewMaterial: {fileID: 2100000, guid: c31e3e78c02b86542b13e6de39fe726f, type: 2}
+  - snapPreviewMaterial: {fileID: 2100000, guid: 79627d6be7b207540b20e0bbab2dd7c3, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
